@@ -1,0 +1,13 @@
+.row-section {
+  background-color: #fff4bd;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.row-section td {
+  padding: 2px 5px;
+}
+
+.row-section:hover {
+  background-color: #fdee9f;
+}

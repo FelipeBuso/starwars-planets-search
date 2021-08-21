@@ -1,0 +1,41 @@
+* {
+  font-family: Verdana , Geneva , Tahoma , sans-serif;
+  margin: 0;
+}
+
+.filter-numeric-section {
+  margin: 15px;
+}
+
+.filter-numeric-section select {
+  background-color: #dcd2cc;
+  border: none;
+  padding: 3px 5px;
+}
+
+.filter-numeric-section button {
+  background-color: #bdc3cb;
+  border: none;
+  padding: 3px 5px;
+}
+
+.filters-applied-section {
+  margin: 15px;
+  margin-right: 30px;
+  padding: 3px;
+}
+
+.filters-applied-section span {
+  margin-right: 6px;
+}
+
+.filter-section {
+  display: flex;
+  justify-content: initial;
+}
+
+.filter-section button {
+  background-color: #bdc3cb;
+  border: none;
+  border-radius: 5px;
+}

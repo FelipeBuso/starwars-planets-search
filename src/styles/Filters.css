@@ -1,0 +1,48 @@
+.filter-top-section {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 0 15px;
+}
+
+.filter-top-section button, input, select {
+  border-radius: 5px;
+}
+
+.filter-name-section button, input, select {
+  margin: 0 10px;
+}
+
+.filter-top-section select {
+  background-color: #dcd2cc;
+  border: none;
+  padding: 3px 5px;
+}
+
+.filter-top-section button {
+  background-color: #bdc3cb;
+  border: none;
+  padding: 3px 5px;
+}
+
+.filter-order-section label {
+  margin-right: 5px;
+}
+
+.logo {
+  height: 40px;
+}
+
+.logo-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+
+.logo-planets {
+  font-size: 2.5em;
+  font-weight: 800;
+  margin-top: 5px;
+}

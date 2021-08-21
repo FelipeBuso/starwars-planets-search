@@ -1,0 +1,9 @@
+.header-table-section {
+  background-color: black;
+  color: white;
+}
+
+.header-table-section th {
+  border: 0;
+  padding: 2px 5px;
+}
