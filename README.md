@@ -8,7 +8,12 @@
 * Utilizar o _React Hook useEffect_;
 * Criar _React Hooks_ customizados.
 
+## Projeto
+
+Lista com filtros de planetas do universo de Star Wars usando **Context API e Hooks** para controlar os estados globais.
+
 ---
+
 ## Como instalar
 
 1. Clone o repositório
